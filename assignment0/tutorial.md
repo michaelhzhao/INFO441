@@ -30,9 +30,8 @@ GOPATH=/home/user/go
 
 /home/user/go/
     src/
-        foo/
-            info441/               (go code in package info441)
-                info441_main.go
+        info441/               (go code in package info441)
+            info441_main.go
     bin/
         info441_main               (Compiled go executable)
     pkg/
