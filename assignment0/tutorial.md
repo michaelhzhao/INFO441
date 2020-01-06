@@ -11,8 +11,8 @@ Download the official installer for your OS at https://golang.org/dl/
 ## Notes for installing Go on Mac
 Although you *can* install go using [Homebrew](https://formulae.brew.sh/formula/go) by running `brew install go`, the brew tap for go isn't officially maintained by Google. 
 
-It's still recommended to run the [official installer](https://golang.org/dl/). I personally installed go via Homebrew and haven't encountered any issued but it's your judgemental call to make.
-
+It's still recommended to run the [official installer](https://golang.org/dl/). I personally installed go via Homebrew and haven't encountered any issues but it's your judgemental call to make.
+12` ``      `                                                                   qw  a       
 ## Post-installation configurations
 After installing go, try running `go version` in your shell/powershell and you should see something like this, if not identical.
 ```bash
