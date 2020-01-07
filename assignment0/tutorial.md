@@ -3,7 +3,7 @@
 ## Hello!
 Welcome to INFO 441 Winter 2020. I'm Rico, one of your two TAs for this class. I've TA'ed this class last quarter and this is the third time that William has done it so hopefully you guys will find us helpful.
 
-This is the first of many text tutorials that I'll be doing over the course and William mainly focuses on doing video tutorials. These tutorials serve as your resource to troubleshoot/prime to the upcoming assignments. 
+This is the first of many text tutorials that I'll be doing over the course and William mainly focuses on doing video tutorials. These tutorials serve as your resource to troubleshoot/prime you for the upcoming assignments. 
 
 ## Install Go
 Download the official installer for your OS at https://golang.org/dl/
