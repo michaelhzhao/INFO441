@@ -215,7 +215,8 @@ func main() {
     // I also moved IndexHandler to the handlers package,
     mux.HandleFunc("/", handlers.IndexHandler)   
     // and renamed Handler to SearchHandler, for better readability
-	mux.HandleFunc("/search", ctx.SearchHandler)
+    mux.HandleFunc("/search", ctx.SearchHandler)
+    // serving on localhost:4000
 	http.ListenAndServe(":4000", mux)
 }
 ```
